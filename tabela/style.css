@@ -1,0 +1,159 @@
+#tabela{
+    display: block;
+    width:1900px;
+    height: 900px;
+     
+    }
+    .elemento{
+        background-color: rgb(111, 10, 124);
+        width: 100px;
+        height: 100px;
+        display: block;
+        float: left;
+        border: 1px solid black;
+        float: left;
+    }
+    .numeroatomico{
+        width: 100px;
+        height: 10px;
+        display: block;
+        float: left;
+        padding-right: 15px;
+        padding-top: 10px;
+         color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: right;
+    }
+    .simbolo{
+        font-size: 40px;
+        display: block;
+        width: 99%;
+        height: 40px;
+        left: 30px;
+        float: right;
+        text-align: center;
+        color: white;
+    }
+    .nome{
+        color: white;
+        font-size: 15px;
+        padding-right: 40px;
+        display: block;
+        width: 99%;
+        height: 15px;
+        text-align: center;
+    }
+     
+    #alcalinos{
+        display: block;
+        height: 670px;
+        width: 101px;
+        background-color: blue;
+        float: left;
+    }
+     
+     
+    #alcalinosterrosos{
+        width:100px;
+        height: 568px;
+        top: 101px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: palevioletred;
+    }
+    #transicao{
+        width: 1027px;
+        height: 1px;
+        background-color: orange;
+        float: left;
+        position: relative;
+        top: 306px;
+    }
+    #boro{
+        width: 100px;
+        height: -600px;
+        top: 101px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: aqua;
+    }
+    #carbono{
+        width: 100px;
+        height: -600px;
+        top: 101px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: violet  
+    }
+    #nitrogenio{
+        width: 100px;
+        height: -600px;
+        top: 101px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: peru  
+    }
+    #calcogenios{
+        width: 100px;
+        height: -600px;
+        top: 101px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: red
+    }
+    #halogenios{
+        width: 100px;
+        height: -600px;
+        top: 101px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: black
+    }
+    #gasesnobres{
+        width: 101px;
+        height: -358px;
+        top: -1px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: blue  
+    }
+    #metaisinternos{
+        width: 1540px;
+        height: 0px;
+        top: 50px;
+        position: relative;
+        display: block;
+        float: left;
+        background-color: red;
+        margin-left: 300px;
+    }
+    .verdeclaro{
+        background-color: rgb(112, 220, 112);
+    }
+    .laranja{
+        background-color: rgb(239, 114, 69);
+    }
+    .amarelo{
+        background-color: rgb(234, 234, 90);
+    }
+    .rosa{
+        background-color: palevioletred;
+    }
+    .branco{
+        background-color: white;
+    }
+    .azulescuro{
+        background-color: rgb(95, 95, 232);
+    }
+    .azulbebe{
+        background-color: rgb(162, 162, 247);
+    }
+
+    
